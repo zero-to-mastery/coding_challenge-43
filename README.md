@@ -1,5 +1,5 @@
 
-<img src="https://periodhomestyle.co.uk/wp-content/uploads/2018/09/awaiting-image.jpg" width="250" align="right" />
+<img src="/Advent of Code.png" width="350" align="right" />
 
 # Advent of Code 2021 (coding_challenge-43)
 
