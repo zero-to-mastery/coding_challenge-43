@@ -1,7 +1,7 @@
 
 <img src="/Advent of Code.png" width="350" align="right" />
 
-# Advent of Code 2021 (coding_challenge-43)
+# Advent of Code (coding_challenge-43)
 
 
 ## What is Advent of Code?
